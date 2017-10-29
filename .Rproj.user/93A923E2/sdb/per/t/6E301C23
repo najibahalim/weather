@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "library(rwunderground)\ny<-hourly(location = set_location(territory = \"India\", city = \"Mumbai\") )\n",
+    "created" : 1509280712267.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2460824383",
+    "id" : "6E301C23",
+    "lastKnownWriteTime" : 1509301594,
+    "last_content_update" : 1509301594787,
+    "path" : "~/Tree/TE/SEM V/COMMON/weather/t2.R",
+    "project_path" : "t2.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,3 @@
+4a2033101e8caa1a
+
+http://api.wunderground.com/api/4a2033101e8caa1a/conditions/q/CA/San_Francisco.json

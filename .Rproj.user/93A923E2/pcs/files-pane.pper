@@ -1,0 +1,9 @@
+{
+    "path" : "~/Tree/TE/SEM V/COMMON/weather",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
