@@ -1,17 +1,18 @@
 {
     "collab_server" : "",
-    "contents" : "library(rwunderground)\ny<-hourly(location = set_location(territory = \"India\", city = \"Mumbai\") )\n",
+    "contents" : "library(rwunderground)\nrwunderground::set_api_key(\"4a2033101e8caa1a\")\ny<-hourly(location = set_location(territory = \"India\", city = \"Mumbai\") )\nprint(y)\n",
     "created" : 1509280475419.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2460824383",
+    "hash" : "820784228",
     "id" : "FE41B6E7",
-    "lastKnownWriteTime" : 1509280622,
-    "last_content_update" : 1509280622897,
-    "path" : "~/Tree/TE/SEM V/COMMON/weather/t1.R",
+    "lastKnownWriteTime" : 1509307576,
+    "last_content_update" : 1509307576431,
+    "path" : "~/Tree/TE/weather/t1.R",
     "project_path" : "t1.R",
     "properties" : {
+        "notebook_format" : "html_document",
         "tempName" : "Untitled1"
     },
     "relative_order" : 1,

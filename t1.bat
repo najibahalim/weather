@@ -1,0 +1,1 @@
+C:\Users\najib\OneDrive\Documents\R\R-3.3.1\bin\R.exe BATCH C:\Users\najib\Documents\Tree\TE\weather\t1.R

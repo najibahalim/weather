@@ -1,2 +1,2 @@
-library(rwunderground)
-y<-hourly(location = set_location(territory = "India", city = "Mumbai") )
+for(i in 1:4)
+  print(i)
